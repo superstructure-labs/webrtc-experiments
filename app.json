@@ -1,6 +1,7 @@
 {
   "name": "Twilio Specialist on Demand",
-  "description": "This application is functional customer-to-specialist demo platform. It utilizes Twilio SMS and Video.",
+  "description":
+    "This application is functional customer-to-specialist demo platform. It utilizes Twilio SMS and Video.",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["Authy", "Twilio", "Video"],
   "image": "heroku/nodejs",
@@ -24,12 +25,13 @@
       "value": "Phone Number"
     },
     "API_KEY_SID": {
-      "description": "API Keys are revokable credentials for the Twilio API. You can create it here: https://www.twilio.com/console/dev-tools/api-keys",
-      "value": "API Key"
+      "description":
+        "API Keys are revokable credentials for the Twilio API. You can create it here: https://www.twilio.com/console/dev-tools/api-keys",
+      "value": "SKbbf51d42a3beda31d7e483fdca7079c9"
     },
     "API_KEY_SECRET": {
       "description": "API Keys are revokable credentials for the Twilio API.",
-      "value": "API Secret"
+      "value": "g5dfSUi1LG7kY66PLcnTGirlNsOH3eA9"
     }
   }
 }
